@@ -1,0 +1,92 @@
+{
+    "jokea":[
+        {
+            "id":1,
+            "writer":"Jerry Seinfeld",
+            "joke":"Why did Ernest Hemingway always write in the present tense? Because he was always on deadline",
+            "dateOfMake":"2023/11/19",
+            "author":"sulimanhakimi"
+
+        },
+        {
+            "id":2,
+            "writer":"George Carlin",
+            "joke":"What do you call a writer who's always getting rejected? A J.K. Rowling.",
+            "dateOfMake":"2023/11/19",
+            "author":"sulimanhakimi"
+
+        },
+        {
+            "id":3,
+            "writer":"Richard Pryor",
+            "joke":"What do you call a writer who's always getting stuck? A George R.R. Martin.",
+            "dateOfMake":"2023/11/19",
+            "author":"sulimanhakimi"
+
+        }, {
+            "id":4,
+            "writer":"Eddie Murphy",
+            "joke":"What do you call a writer who's always getting lost in their work? A Herman Melville.",
+            "dateOfMake":"2023/11/19",
+            "author":"sulimanhakimi"
+
+        }, {
+            "id":5,
+            "writer":"Robin Williams",
+            "joke":"What do you call a writer who's always getting their words mixed up? A Mary Shelley.",
+            "dateOfMake":"2023/11/19",
+            "author":"sulimanhakimi"
+
+        }, {
+            "id":6,
+            "writer":"Dave Chappelle",
+            "joke":"What do you call a writer who's always getting their stories stolen? A Mark Twain.",
+            "dateOfMake":"2023/11/19",
+            "author":"sulimanhakimi"
+
+        }, {
+            "id":7,
+            "writer":"Chris Rock",
+            "joke":"What do you call a writer who's always getting their books banned? A Salman Rushdie",
+            "dateOfMake":"2023/11/19",
+            "author":"sulimanhakimi"
+
+        }, {
+            "id":8,
+            "writer":"Ricky Gervais ",
+            "joke":"What do you call a writer who's always getting their characters killed? An Agatha Christie.",
+            "dateOfMake":"2023/11/19",
+            "author":"sulimanhakimi"
+
+        }, {
+            "id":9,
+            "writer":"Stephen Fry",
+            "joke":"What do you call a writer who's always getting their books turned into movies? A J.R.R. Tolkien.",
+            "dateOfMake":"2023/11/19",
+            "author":"sulimanhakimi"
+
+        }, {
+            "id":10,
+            "writer":"Bill Hicks",
+            "joke":"What do you call a writer who's always getting their books turned into plays? A William Shakespeare.",
+            "dateOfMake":"2023/11/19",
+            "author":"sulimanhakimi"
+
+        }, {
+            "id":11,
+            "writer":"George Burns",
+            "joke":"What do you call a writer who's always getting their books turned into musicals? A Andrew Lloyd Webber",
+            "dateOfMake":"2023/11/19",
+            "author":"sulimanhakimi"
+
+        },
+        {
+            "id":12,
+            "writer":"Ricky Gervais ",
+            "joke":"What do you call a writer who's always getting their books turned into operas? A Giacomo Puccini.",
+            "dateOfMake":"2023/11/19",
+            "author":"sulimanhakimi"
+
+        }
+    ]
+}
